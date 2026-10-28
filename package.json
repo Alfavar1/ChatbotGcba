@@ -1,0 +1,9 @@
+{
+  "name": "chatbotgcba",
+  "version": "1.0.0",
+  "description": "Buscador Organigrama GCBA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
